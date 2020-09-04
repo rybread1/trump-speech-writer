@@ -1,1 +1,1 @@
-# trump_speech_writer
+# Write speeches like Trump.
