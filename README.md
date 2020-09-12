@@ -2,8 +2,8 @@
 
 Trained on a collection of speeches and interviews from Donald Trump's 2016 Campaign trail.
 
-Hyper-parameters:
-- type of predction: either next word or next character
+**Hyper-parameters that led to wildly different results:**
+- Type of predction: either next word or next character
     - "the quick brown " --> "fox"
     - "the quick brown " --> "f"
 - Sequence length: I found the most success using ~30 for next word, and ~80 for next character. Playing around with these leads to some interesting results
