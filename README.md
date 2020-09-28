@@ -1,4 +1,4 @@
-# Create a LSTM model to generate text in a "trumpian" fashion.
+# Create a LSTM model to generate text in a "trumpian" fashion. -- UPDATED using a transformer
 
 Trained on a collection of speeches and interviews from Donald Trump's 2016 Campaign trail.
 
